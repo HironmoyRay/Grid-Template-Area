@@ -11,6 +11,8 @@
 }
 .nav{
     grid-area: nav;
+}
+.list{
     padding-right: 30px;
 }
 .main{
